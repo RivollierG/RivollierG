@@ -22,6 +22,7 @@
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=white&colorB=A81D33)  ![ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white&colorB=E95420) ![Windows](https://img.shields.io/badge/Windows-%230078D6%0A?style=for-the-badge&logo=Windows&logoColor=white&colorB=0078D6)
 
 ![bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white&colorB=4EAA25)  
+![git](https://img.shields.io/badge/Git-%0A%23F05032%0A?style=for-the-badge&logo=Git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
