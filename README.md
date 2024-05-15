@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RivollierG aka Guillaume Rivollier
 
-- 🌱 I’m currently learning ML& data science in The campus numerique in the Alps
+<!--- - 🌱 I’m currently learning ML& data science in The campus numerique in the Alps
 
 - 📫 Find more about me on https://rivollierg.github.io/ (might still be WIP)
-
+--->
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillaume-rivollier) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/g_rivollier) 
 
